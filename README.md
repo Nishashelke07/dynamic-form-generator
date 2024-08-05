@@ -1,4 +1,4 @@
-Dynamic Form Generator:
+Dynamic Form Generator
 AppLink - https://iridescent-kitsune-e90799.netlify.app/
 A React.js application using Material-UI that allows users to create, save, load, and manage dynamic forms with various types of form fields.
 
